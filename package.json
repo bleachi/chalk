@@ -1,0 +1,19 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleachi/chalk.git"
+  },
+  "author": "Bryan Leach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleachi/chalk/issues"
+  },
+  "homepage": "https://github.com/bleachi/chalk#readme"
+}
